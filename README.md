@@ -22,3 +22,5 @@ Este Proyecto de encarga de manejar los planes de un proyecto
   * e3
 
 ![GITHub logo](https://geekytheory.com/content/images/2014/05/Cat-Illustrations-005.jpg)
+
+*Esto* es un _texto_
